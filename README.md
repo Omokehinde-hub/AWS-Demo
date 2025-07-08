@@ -2,6 +2,8 @@
 
 This repository is created for deploying a **static website** on an **Amazon EC2 instance** using the **HTTPD (Apache)** web server.
 
+<img width="1916" height="1078" alt="Image" src="https://github.com/user-attachments/assets/610b6396-f324-4983-a32c-fcfbd4eb3de5" />
+
 ## 📦 Project Overview
 
 - Launch an EC2 instance (Amazon Linux 2 or Redhart )
