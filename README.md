@@ -4,7 +4,7 @@ This repository is created for deploying a **static website** on an **Amazon EC2
 
 ## 📦 Project Overview
 
-- Launch an EC2 instance (Amazon Linux 2 or similar)
+- Launch an EC2 instance (Amazon Linux 2 or Redhart )
 - Install and configure `httpd` (Apache)
 - Deploy static website files (HTML, CSS, JS)
 - Configure security group to allow HTTP (port 80) access
